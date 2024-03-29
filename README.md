@@ -5,3 +5,4 @@ I do not own any of these mods, this is just used as an easier way of version co
 
 List of mods that couldn't be uploaded to Github:
 https://drive.google.com/file/d/1wfsSeprywhJagNBdoRdnJXx8ihetjsQG/view?usp=sharing
+https://drive.google.com/file/d/1pnUNLQ82BnaFJ7kqQQTWKpGPL9xVbzXg/view?usp=sharing
