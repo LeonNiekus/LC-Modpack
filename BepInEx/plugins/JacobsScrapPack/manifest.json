@@ -1,0 +1,11 @@
+{
+    "name": "Jacobs_Scrap_Pack",
+    "version_number": "2.1.0",
+    "website_url": "",
+    "description": "This mod aims to add several new pieces of unique scrap items to the game without negatively impacting perfomance, aesthetics, or the balance of existing scrap items.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-LethalLib-0.15.0",
+        "Evaisa-HookGenPatcher-0.0.5"
+    ]
+}
